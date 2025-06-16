@@ -1,0 +1,69 @@
+body{
+    background-color: beige ;
+}
+ h1{
+    color: blue; 
+ }
+ .supertitulo{font-size: 50px;
+    text-align: center;
+
+}
+.paragrafo{
+    position: relative;
+    top: -35px;
+    text-align: justify;
+    font-size: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.imgfutebol{
+    border-radius: 10px;
+}
+table{border-radius: 10px;}
+
+a:hover{
+    color:black ;
+
+}
+
+ul{
+    position: relative;
+    left: 950px;
+    font-size: 15px;
+}
+
+button{
+    position:relative;
+    top:-420px;
+
+    right: 150px;
+}
+
+  .tabela{
+    margin-left: 500px;
+    margin-top: -250px;
+ }
+
+ button{
+    position: relative;
+    top:-420px;
+    right: 30px;
+ }
+
+ #mensagem{
+    display: none;
+    position:relative;
+    top:-410px;}
+    
+  .link{
+    position: relative;
+    top:-40px;
+  }
+
+  html,body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
